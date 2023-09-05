@@ -22,6 +22,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-olympia-jay&show_icons=true&theme=tokyonight)
 
 </div>
+
 <!--
 **mr-olympia-jay/mr-olympia-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
