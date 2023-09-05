@@ -17,7 +17,7 @@
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-olympia-jay&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-olympia-jay&show_icons=true&theme=onedark)
 
 <!--
 **mr-olympia-jay/mr-olympia-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
